@@ -171,4 +171,4 @@ Projet réalisé dans le cadre d'une formation en Data Science / Machine Learnin
 
 ---
 
-*Dataset source : Instagram personal analytics export*
+*Dataset source : kaggle
